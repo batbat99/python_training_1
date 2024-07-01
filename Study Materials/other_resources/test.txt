@@ -1,4 +1,1 @@
-Hello
-this is text from a test file
-line 3
-line 4
+New Text from my scriptNew line using append
